@@ -84,7 +84,7 @@ const projects = [
       'A frontend clone inspired by roadmap.sh, focused on layout replication and clean component composition.',
     tech: ['React', 'Frontend Architecture', 'UI Cloning'],
     accent: 'bg-rose-400',
-    href: 'https://a8h1km.github.io/roadmap-clone/',
+    href: 'https://roadmap-clone-beryl.vercel.app/',
     external: true
   }
 ];
